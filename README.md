@@ -23,7 +23,7 @@ La documentación del framework puede encontrarse en el [sitio web de Lumen](htt
 - Lumen
 - compouser
 - Base de datos MySQL (administracion.sql)
-Este archivo se encuentra en la carpeta en `ctrlUsuarios\database\administracion.sql`
+Este archivo se encuentra en la carpeta en `ctrlUsuarios\database\biblioteca.sql`
 
 #### ¿Cómo Descargar el CrudApi?
 
@@ -35,7 +35,7 @@ Este archivo se encuentra en la carpeta en `ctrlUsuarios\database\administracion
 
 - Cree en MySQL una BD llamada administración, una vez la tenga vaya a la opción de `importar` dentro de esta base de datos seleccione la opción `examinar` ahí tendrá que elegir la ubicación del archivo `.sql` que anteriormente nombre.
 
-- Ahora que tiene el acceso vaya a su navegador preferido. Ejemplo: `localhost/crudApi/public o index.php, index.html`; esto ya dependerá en donde creó el proyecto.
+- Ahora que tiene el acceso vaya a su navegador preferido. Ejemplo: `localhost/crudApi/public o index.php, index.html`; esto ya dependerá en donde creó el proyecto. En este caso es: `localhost/crudApi/public/libros` nos muestra en formato json la información.
 
 ------------
 
